@@ -6,7 +6,7 @@ editor: Alexey Shmalko <ashmalko@kaaiot.io>
 contributors: Alexey Gamov <agamov@cybervisiontech.com>, Andrew Kokhanovskyi <ak@kaaiot.io>
 ---
 
-{{ page.content }}
+{{rfc_url}}
 
 ## Introduction
 
