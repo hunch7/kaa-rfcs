@@ -6,17 +6,7 @@ editor: Alexey Shmalko <ashmalko@kaaiot.io>
 contributors: Alexey Gamov <agamov@cybervisiontech.com>, Andrew Kokhanovskyi <ak@kaaiot.io>
 ---
 
-<head>
-<sript src="../toc.js"></sript>
-
-<script type="text/javascript">
-$(document).ready(function() {
-    $('#toc').toc();
-});
-</script>
-</head>
-
-<div id="toc"></div>
+{{ page.content }}
 
 ## Introduction
 
