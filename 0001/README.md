@@ -14,6 +14,8 @@ $(document).ready(function() {
 });
 </script>
 
+<div id="toc"></div>
+
 ## Introduction
 
 This document describes general requirements, principles, design, and guidelines for Kaa Protocol (KP) version 1.
