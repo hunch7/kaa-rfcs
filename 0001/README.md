@@ -6,14 +6,6 @@ editor: Alexey Shmalko <ashmalko@kaaiot.io>
 contributors: Alexey Gamov <agamov@cybervisiontech.com>, Andrew Kokhanovskyi <ak@kaaiot.io>
 ---
 
-
-<article class="post">
-  <h1 class="post-title note info">{{ page.title }}</h1>
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
-  <div id="toc"></div>
-  {{ content }}
-</article>
-
 <sript src="../toc.js"></sript>
 
 <script type="text/javascript">
