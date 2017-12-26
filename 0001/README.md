@@ -6,14 +6,13 @@ editor: Alexey Shmalko <ashmalko@kaaiot.io>
 contributors: Alexey Gamov <agamov@cybervisiontech.com>, Andrew Kokhanovskyi <ak@kaaiot.io>
 ---
 
-<div id="toc"></div>
-
 <script src="../toc.js" type="text/javascript">
 $(document).ready(function() {
     $('#toc').toc();
 });
 </script>
 
+<div id="toc"></div>
 
 ## Introduction
 
