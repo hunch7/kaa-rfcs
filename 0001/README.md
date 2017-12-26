@@ -6,14 +6,14 @@ editor: Alexey Shmalko <ashmalko@kaaiot.io>
 contributors: Alexey Gamov <agamov@cybervisiontech.com>, Andrew Kokhanovskyi <ak@kaaiot.io>
 ---
 
-{% include variables.md %}
-
-{{rfc_url}}
-
+{% capture heading %}
 ## Introduction
+{% endcapture %}
 
 This document describes general requirements, principles, design, and guidelines for Kaa Protocol (KP) version 1.
 KP is a standard protocol designed to connect client applications and endpoints to a Kaa server.
+
+{{ heading }}
 
 
 ## Language
